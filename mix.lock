@@ -1,0 +1,3 @@
+%{
+  "exprintf": {:hex, :exprintf, "0.1.6", "b5b0a38bf78a357dbc61cdf7364fea004af6fdf5214be44021eb2ea7edf61f6e", [:mix], [], "hexpm"},
+}
