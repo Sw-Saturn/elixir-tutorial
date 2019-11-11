@@ -1,6 +1,6 @@
 # Fizzbuzz
 
-**TODO: Add description**
+ElixirでFizzBuzzをやってみた
 
 ## Installation
 
